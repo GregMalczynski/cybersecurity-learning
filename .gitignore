@@ -1,0 +1,27 @@
+# Sensitive Data
+*.pcap
+*credentials*
+*passwords*
+*.key
+*.pem
+*secrets*
+
+# System Logs
+.log
+
+# Temporary Files
+*.tmp
+*.swp
+*~
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Large Files
+*.iso
+*.ova
+*.vmdk
