@@ -7,7 +7,7 @@
 *secrets*
 
 # System Logs
-.log
+*.log
 
 # Temporary Files
 *.tmp
