@@ -3,8 +3,8 @@
 ## Testing environment
 
 - VirtualBox : isolated virtual network
-- Kali-Linux : (102.168.56.101) - attacker
-- Metasploitable2 : (192.168.56.100) - target
+- Kali-Linux : (102.168.56.102) - attacker
+- Metasploitable2 : (192.168.56.101) - target
 
 ## Network configuration
 
