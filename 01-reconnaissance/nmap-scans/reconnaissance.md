@@ -1,8 +1,13 @@
-# Searching all hosts in isolated network / result for :
+# Searching all hosts in isolated network
+
+## Result for :
 ```bash
-nmap -sn 192.168.56.0/24
+nmap -sn -oN reconnaissance.txt 192.168.56.0/24
 ```
 ## Founed 4 hosts :
+
+-sn : ping scan
+-oN : save scan result to file
 
 Host is up : Active
 
