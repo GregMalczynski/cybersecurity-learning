@@ -21,5 +21,5 @@ Documentation of my studies in the field of :
 ## Progress
 
 - [] : Labs Completed 
-- [] : Scripts
-- [20] : Hours of study
+- [2] : Scripts
+- [25] : Hours of study
